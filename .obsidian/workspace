@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/Английский язык.md",
+            "file": "dlfsjfkljwe.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Английский язык.md",
+                "file": "dlfsjfkljwe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1477c798c2e6800b",
   "lastOpenFiles": [
+    "dlfsjfkljwe.md",
     "English/Английский язык.md",
     "English/Past Simple.md",
     "English/Present Perfect Simple.md",
@@ -96,7 +97,6 @@
     "English/Present Simple.md",
     "Тестим возможности обсидиана/Главная статья.md",
     "Тестим возможности обсидиана/Научимся делать сворачивающиеся списки.md",
-    "Тестим возможности обсидиана/Можно ли делать картинки.md",
-    "Тестим возможности обсидиана/Медитирующая картинка.png"
+    "Тестим возможности обсидиана/Можно ли делать картинки.md"
   ]
 }
