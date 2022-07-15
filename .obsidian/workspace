@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "65194e4b62d5def2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1477c798c2e6800b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "English/Английский язык.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1466af8147e81cc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d05934062c7bbb71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e0d8b0c31ee2788",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c68d7cbbd537fda",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ddfe157044cb9d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e8e3e4ac08ddc6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e97f992da18ba130",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "English/Английский язык.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1477c798c2e6800b",
+  "lastOpenFiles": [
+    "English/Английский язык.md",
+    "English/Past Simple.md",
+    "English/Present Perfect Simple.md",
+    "English/Present Perfect Continuous.md",
+    "English/Present Continuos.md",
+    "English/Present Simple.md",
+    "Тестим возможности обсидиана/Главная статья.md",
+    "Тестим возможности обсидиана/Научимся делать сворачивающиеся списки.md",
+    "Тестим возможности обсидиана/Можно ли делать картинки.md",
+    "Тестим возможности обсидиана/Медитирующая картинка.png"
+  ]
+}
